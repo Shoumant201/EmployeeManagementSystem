@@ -1,0 +1,25 @@
+# Ignore environment variable files (e.g., .env, config.json)
+.env
+config.json
+
+# Ignore compiled class files
+*.class
+
+# Ignore IDE directories
+.idea/
+.vscode/
+
+# Ignore build directories (for Maven or Gradle projects)
+target/
+build/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore local configuration files (like .env, .settings, etc.)
+*.env
+.settings/
